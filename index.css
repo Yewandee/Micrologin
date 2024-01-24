@@ -1,0 +1,67 @@
+.container {
+  max-width: 300px;
+  max-height: 400px;
+  margin: auto;
+  margin-top: 100px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.line {
+  display: flex;
+}
+.text{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.logo {
+margin-top: 15px;
+  width: 30px;
+  height: 30px;
+}
+.underline-input {
+  border-bottom: 1px solid #000;
+  padding: 5px;
+  margin-bottom: 40px;
+  width: 100%;
+  color: #2e2e2e;
+  
+}
+.access{
+    text-decoration: none;
+    color: rgb(0, 77, 243);
+}
+.btn {
+    width: 80px;
+    background-color: rgb(17, 17, 230);
+    color: #ffffff;
+    margin-left: 70%;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.btn a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 25px;
+}
+ 
+.signin {
+  max-width: 350px;
+  margin: 20px auto;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.key {
+  display: flex;
+}
+.logoo {
+  width: 20px;
+  height: 20px;
+  margin-top: 12px;
+  margin-left: 20px;
+}
+.key_text{
+    margin-left: 15px;
+}
